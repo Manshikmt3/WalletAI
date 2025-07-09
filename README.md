@@ -20,6 +20,9 @@ Rate Limiting & Bot Protection: Arcjet
 📤 Deployed on Vercel
 # 👥 Collaborators
 Manshi Kumawat
+
 Khushi Khada
+
 Jahnavi Bohra
+
 # 💡 Wallet AI is a minor project built with a focus on modern web development practices and real-time finance solutions.
